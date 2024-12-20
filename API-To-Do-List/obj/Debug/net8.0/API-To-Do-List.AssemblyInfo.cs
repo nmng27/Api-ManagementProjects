@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API-To-Do-List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff85d93c1ebeaeb6cd2bde811ff192a76805d7b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("API-To-Do-List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API-To-Do-List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
