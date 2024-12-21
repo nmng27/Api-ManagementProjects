@@ -31,9 +31,11 @@ namespace API_To_Do_List.Model.Activitie
         [Column("project_id")]
         [ForeignKey("project_id")]
         private int projectid {  set; get; }
+        [ForeignKey("employeer_id")]
+        private int employeer_id;
 
         public ActivityModel() { }
-        public ActivityModel(int id, string name, string desc, DateOnly dateStart, DateOnly dateFinish, string satisfation, int projectidd, )        {
+        public ActivityModel(int id, string name, string desc, DateOnly dateStart, DateOnly dateFinish, string satisfation, int projectidd, int employeer_id)        {
             this.id = id;
             this.name = name;
             this.desc = desc;
@@ -41,6 +43,7 @@ namespace API_To_Do_List.Model.Activitie
             this.dateFinish = dateFinish;
             this.satisfation = satisfation;
             this.projectid = projectid;
+            this.employeer_id = employeer_id;
         }   
 
 
