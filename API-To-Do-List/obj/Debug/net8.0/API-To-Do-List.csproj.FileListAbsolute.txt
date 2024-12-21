@@ -1,0 +1,8 @@
+D:\.NET\api-to-do-list\API-To-Do-List\API-To-Do-List\obj\Debug\net8.0\API-To-Do-List.csproj.AssemblyReference.cache
+D:\.NET\api-to-do-list\API-To-Do-List\API-To-Do-List\obj\Debug\net8.0\API-To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\api-to-do-list\API-To-Do-List\API-To-Do-List\obj\Debug\net8.0\API-To-Do-List.AssemblyInfoInputs.cache
+D:\.NET\api-to-do-list\API-To-Do-List\API-To-Do-List\obj\Debug\net8.0\API-To-Do-List.AssemblyInfo.cs
+D:\.NET\api-to-do-list\API-To-Do-List\API-To-Do-List\obj\Debug\net8.0\API-To-Do-List.csproj.CoreCompileInputs.cache
+D:\.NET\api-to-do-list\API-To-Do-List\API-To-Do-List\obj\Debug\net8.0\API-To-Do-List.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET\api-to-do-list\API-To-Do-List\API-To-Do-List\obj\Debug\net8.0\API-To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\api-to-do-list\API-To-Do-List\API-To-Do-List\obj\Debug\net8.0\API-To-Do-List.sourcelink.json
